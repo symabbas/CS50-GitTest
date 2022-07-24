@@ -1,0 +1,1 @@
+The file display.py will print a pattern to display 'CS 50'..
